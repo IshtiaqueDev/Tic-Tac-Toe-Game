@@ -11,7 +11,7 @@ This project helped me improve my logical thinking by implementing concepts like
 
 
 ## Author
-- Ishtiaq
+- Ishtiaque Ali
 
 ## Feedback
 If you have any suggestions, feel free to open an issue or contact me.
