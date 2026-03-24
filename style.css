@@ -1,0 +1,63 @@
+body{
+    text-align: center;
+    background-color: #F0F4F8;
+}
+h1{
+   color: #1E3A8A;
+}
+.container{
+    display: flex;
+    justify-content: center;
+}
+.container div{
+    margin: 3px;
+}
+.box {
+    transition: background 0.3s, transform 0.2s;
+}
+.box:hover {
+    transform: scale(1.05);
+}
+
+
+.box{
+    border-radius: 20%;
+    height: 100px;
+    width: 100px;
+    border: 5px solid black;
+    text-align: center;
+    font-size: 80px;
+    background-color: #FFFFFF;
+}
+.box:hover{
+    background-color: #E0E7FF;
+}
+.score{
+    justify-content: center;
+    display: flex;
+
+}
+.score .userScore{
+    margin-right: 90px;
+}
+button{
+    cursor: pointer;
+    padding: 10px;
+    margin: 10px;
+    background-color: black;
+    border: none;
+    color: white;
+}
+.not{
+    color: rgb(78, 255, 47);
+
+}
+.red{
+    color: red;
+}
+
+
+.h{
+    margin-top: 20px;
+ font-family: cursive; 
+}
