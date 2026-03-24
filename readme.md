@@ -7,7 +7,7 @@ This project helped me improve my logical thinking by implementing concepts like
 - Winning sequence detection
 - Loops and conditional logic
 
-![Tic Tac Toe Screenshot](ProjectUI.png)
+![Tic Tac Toe Screenshot](ProjectUI.PNG)
 
 
 ## Author
